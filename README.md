@@ -12,3 +12,6 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![saron's GitHub stats](https://github-readme-stats.vercel.app/api?username=saron&show_icons=true&theme=great-gatsby)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saron&layout=compact&theme=material-palenight)
