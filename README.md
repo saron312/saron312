@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Saron%20GitHub!&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20Saron%20GitHub!&fontSize=80)
 
 ### Hi there 👋
 
