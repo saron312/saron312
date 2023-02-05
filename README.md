@@ -4,7 +4,7 @@
 
 <div>
 😄 I'm Saron Jang 🇰🇷🇰🇷<br/>
-📖 I majored in knit fashion design and worked as a knit programmer for 7 1/2 years. <br/>
+📖 I majored in fashion design and worked in related industry for 7 1/2 years. <br/>
 🍀 But I have a new dream of becoming a back-end developer.🍀 <br/>
 👩‍💻 So I am studying application software by transferring. <br/><br/>
   
