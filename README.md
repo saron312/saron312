@@ -1,5 +1,5 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=rect&height=200&text=Stroke%20Test&fontAlign=70&stroke=00FF00&strokeWidth=3) -->
-![header](https://capsule-render.vercel.app/api?type=rect&color=random&height=100&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=100&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=40)
 ### 👋 Hi there
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
