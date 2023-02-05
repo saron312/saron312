@@ -5,7 +5,7 @@
 <div>
 😄 I'm Saron Jang 🇰🇷🇰🇷<br/>
 📖 I majored in knit fashion design <br/>
-🍀 But my dream is to become a backend developer.🍀
+🍀 But my dream is to become a backend developer.🍀 <br/>
 👩‍💻 So I am studying application software by transferring.
 
 </div>
