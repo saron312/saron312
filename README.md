@@ -1,6 +1,6 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=rect&height=200&text=Stroke%20Test&fontAlign=70&stroke=00FF00&strokeWidth=3) -->
 ![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=100&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=40)
-## 👋 Hi there ~~ 안녕하세요 ~~ 👋
+## 👋 Hi there ~~ 👋
 
 <div>
 😄 I'm Saron Jang 🇰🇷🇰🇷<br/>
@@ -9,7 +9,6 @@
 👩‍💻 So I am studying application software by transferring. <br/><br/>
   
 <!--   My nickname is someone who lives in coding and dies in coding. -->
-  I will study really, really hard to be the best in this field. <br/>
   As time goes by, I will be a developer who treats development more sincerely. <br/>
   I will try to give real value and impression to users with a single line of code.
 
