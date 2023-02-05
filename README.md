@@ -6,7 +6,12 @@
 😄 I'm Saron Jang 🇰🇷🇰🇷<br/>
 📖 I majored in knit fashion design <br/>
 🍀 But my dream is to become a backend developer.🍀 <br/>
-👩‍💻 So I am studying application software by transferring.
+👩‍💻 So I am studying application software by transferring. <br/><br/>
+  
+<!--   My nickname is someone who lives in coding and dies in coding. -->
+  I will study really, really hard to be the best in this field. <br/>
+  As time goes by, I will be a developer who treats development more sincerely. <br/>
+  I will try to give real value and impression to users with a single line of code.
 
 </div>
 
