@@ -1,17 +1,15 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=rect&height=200&text=Stroke%20Test&fontAlign=70&stroke=00FF00&strokeWidth=3) -->
 ![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=100&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=40)
-### 👋 Hi there ~~ 👋👋
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-***
-### ⚡TECH STACK & TOOLS
+## 👋 Hi there ~~ 안녕하세요 ~~ 👋
+
+<div>
+😄 I'm Saron Jang 🇰🇷🇰🇷<br/>
+📖 I majored in knit fashion design and now I am studying application software. <br/>
+
+</div>
+
+
+## ⚡Tech Stack & Tools
 <div>
 <img src="https://img.shields.io/badge/JAVA-FF7800?style=for-the-badge&logo=&logoColor=000"/><br/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=444"/>
