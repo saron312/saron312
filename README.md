@@ -5,7 +5,7 @@
 <div>
 😄 I'm Saron Jang 🇰🇷🇰🇷<br/>
 📖 I majored in knit fashion design and worked as a knit programmer for 7 1/2 years. <br/>
-🍀 But I have a new dream of being a back-end developer.🍀 <br/>
+🍀 But I have a new dream of becoming a backend developer.🍀 <br/>
 👩‍💻 So I am studying application software by transferring. <br/><br/>
   
 <!--   My nickname is someone who lives in coding and dies in coding. -->
